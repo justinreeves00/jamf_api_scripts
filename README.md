@@ -2,7 +2,7 @@
 Some scripts I created to interact with the jamf api in various senarios
 
 # Scripts
-- **Device_Rename.sh**
+- **Device_Name.sh**
 
     Uses the jss id to push a name to a device. 
       
